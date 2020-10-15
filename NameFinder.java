@@ -33,7 +33,6 @@ public class NameFinder{
         }
         else{
             System.out.println(data.substring(start+16, end));
-            //System.out.println(data);
         }
 
         in.close();
